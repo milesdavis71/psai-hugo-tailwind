@@ -1,7 +1,7 @@
 theme = "psai-hugo-tailwind"
 languageCode = "en-us"
 baseurl = "http://example.com/"
-title = "Hugo Tailwindcss Starter"
+title = "Szegedi Petőfi Sándor Általános Iskola és Bálint Sándor Tagiskola"
 
 author = "Dirk Olbrich"
 copyright = "Copyright © 2019-2024, Dirk Olbrich, all rights reserved."
